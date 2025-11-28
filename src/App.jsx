@@ -1,4 +1,5 @@
-import FeedbackForm from "./components/FeedbackForm";
+import React from "react";
+import FeedbackForm from "./components/FeedbackForm.jsx";
 
 function App() {
   return (
